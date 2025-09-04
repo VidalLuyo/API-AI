@@ -1,17 +1,8 @@
-# Documentación de la API - Detección de Edad con Spring Boot
+# Documentación de la API - Spring Boot
 
 ## ✅ **APIs IA y Características**
 
-### 1. **Age Detector (RapidAPI)**  
-**Descripción**:  
-El **Age Detector** es un servicio de **RapidAPI** que utiliza modelos avanzados de visión artificial para detectar los rostros en una imagen y estimar la edad de cada persona basándose en sus atributos faciales. Devuelve una lista con los rostros identificados, su edad estimada y la probabilidad de esa estimación.
-
-**Características**:
-- Detecta todos los rostros en una imagen.
-- Estima la edad de cada rostro detectado utilizando atributos faciales.
-- Devuelve los resultados con la edad estimada y las probabilidades asociadas.
-
-### 2. **YouTube MP3 (RapidAPI)**  
+### 1. **YouTube MP3 (RapidAPI)**  
 **Descripción**:  
 La API **YouTube MP3** permite convertir videos de YouTube en archivos de audio MP3. Esta API permite descargar directamente archivos MP3 de los videos de YouTube.
 
@@ -23,7 +14,7 @@ La API **YouTube MP3** permite convertir videos de YouTube en archivos de audio 
 **Enlace**:  
 - [Convertir YouTube a MP3](https://youtubedownload.minitool.com/youtube/upload-mp3-to-youtube.html)
 
-### 3. **Instagram API (RapidAPI)**  
+### 2. **Instagram API (RapidAPI)**  
 **Descripción**:  
 La **Instagram API** de RapidAPI permite acceder a datos públicos de Instagram, como publicaciones, fotos, seguidores y más. Facilita la interacción programática con la plataforma Instagram.
 
